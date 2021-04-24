@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shiras Hassan</title>
+    <link>https://shirashassan.github.io/tags/</link>
+    <description>Recent content in Tags on Shiras Hassan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/shirashassan&#34;&gt;Shiras Hassan&lt;/a&gt; 2021</copyright>
+    <lastBuildDate>Sun, 25 Apr 2021 02:34:03 +0530</lastBuildDate>
+    
+	<atom:link href="https://shirashassan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ddd</title>
+      <link>https://shirashassan.github.io/tags/ddd/</link>
+      <pubDate>Sun, 25 Apr 2021 02:34:03 +0530</pubDate>
+      
+      <guid>https://shirashassan.github.io/tags/ddd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aboutme</title>
+      <link>https://shirashassan.github.io/tags/aboutme/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:01 +0530</pubDate>
+      
+      <guid>https://shirashassan.github.io/tags/aboutme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>myself</title>
+      <link>https://shirashassan.github.io/tags/myself/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:01 +0530</pubDate>
+      
+      <guid>https://shirashassan.github.io/tags/myself/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ddd on Shiras Hassan</title>
+    <link>https://shirashassan.github.io/tags/ddd/</link>
+    <description>Recent content in ddd on Shiras Hassan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/shirashassan&#34;&gt;Shiras Hassan&lt;/a&gt; 2021</copyright>
+    <lastBuildDate>Sun, 25 Apr 2021 02:34:03 +0530</lastBuildDate>
+    
+	<atom:link href="https://shirashassan.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#01 What Is Domain Driven Design?</title>
+      <link>https://shirashassan.github.io/posts/01-what-is-domain-driven-design/</link>
+      <pubDate>Sun, 25 Apr 2021 02:34:03 +0530</pubDate>
+      
+      <guid>https://shirashassan.github.io/posts/01-what-is-domain-driven-design/</guid>
+      <description>DDD In simple language, this is an approach where the developer codes the software (Classes, Methods, Variables and other code artifacts) in business vocabulary with the help of domain experts.
+Here the code structure and language should match the business domain.
+Through a constant collaborate, Developers &amp;amp; Domain experts together create and refine the domain models.
+This approach will ease the creation of complex application by connect the related pieces into ever evolving system.</description>
+    </item>
+    
+  </channel>
+</rss>
